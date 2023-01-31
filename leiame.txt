@@ -1,5 +1,0 @@
-Arquivos do trabalho da Avaliação Parcial 2 (AP2)
-Cadastro de login para SQLServer
-Aluno: Charles Müller da Silva
-
-LINK PARA CLONAR https://github.com/charlesmuller/Trabalho_AP2_PHP.git
